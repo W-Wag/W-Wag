@@ -5,7 +5,7 @@
 - 🔭 Estou atualmente fazendo faculdade de ADS (Analise e Desenvolvimento de Sistemas)
 
 - 🌱 Estudando JavaScript
-- :mortar_board: Sei sobre Html e css
+- :mortar_board: Sei sobre Html e Css
 
 ## Contact
 
