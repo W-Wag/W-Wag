@@ -5,11 +5,15 @@
 - 🔭 Estou atualmente fazendo faculdade de ADS (Analise e Desenvolvimento de Sistemas)
 
 - 🌱 Estudando JavaScript
-- :mortar_board: Sei sobre Html e Css
+- 🌱 Estudando React
+
 
 ## Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Wag&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Wag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
 
