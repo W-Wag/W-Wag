@@ -7,7 +7,11 @@
 - 🌱 Estudando JavaScript
 - :mortar_board: Sei sobre Html e Css
 
-## Contact
+## Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Wag&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contatos
 
 <a href="https://www.linkedin.com/in/wagner-de-oliveira-martins-081994239/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wagner De Oliveira Martins-05122A?style=flat&logo=linkedin" alt="linkedin"/>
