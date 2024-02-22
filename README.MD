@@ -2,10 +2,12 @@
 <h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Wagner</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=W-Wag&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Estou atualmente fazendo faculdade de ADS (Analise e Desenvolvimento de Sistemas)
+- 🎓 Formado na faculdade de ADS (Analise e Desenvolvimento de Sistemas) pela UNIP (Universidade Paulista)
 
-- 🌱 Estudando JavaScript
-- 🌱 Estudando React
+- 🌱 Estudando Neo4J
+- 🌱 Estudando ElasticSearch
+
+- 🔭 Conhecimentos em Javascript, Typescript, Node.js, React, React Native, Next.js.
 
 
 ## Detalhes
