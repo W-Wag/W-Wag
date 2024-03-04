@@ -12,7 +12,7 @@
 
 ## Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-Wag&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=w-wag&theme=highcontrast&hide_border=true&border_radius=4.4&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat)](https://git.io/streak-stats)
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Wag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
