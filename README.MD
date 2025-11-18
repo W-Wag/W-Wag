@@ -3,10 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=W-Wag&color=yellow" alt="Profile views" /> </p>
 
 - 🎓 Formado na faculdade de ADS (Analise e Desenvolvimento de Sistemas) pela UNIP (Universidade Paulista)
-
-- 🌱 Estudando Neo4J
-- 🌱 Estudando ElasticSearch
-
+- 💼 Atualmente trabalhando como Desenvolvedor Front-End
 - 🔭 Conhecimentos em Javascript, Typescript, Node.js, React, React Native, Next.js.
 
 
