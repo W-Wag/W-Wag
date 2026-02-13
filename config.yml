@@ -68,7 +68,7 @@ projects:
 # All values must be valid hex color codes (#RRGGBB)
 theme:
   void: "#080c14"              # Darkest background
-  nebula: "#ffc170"            # Card backgrounds
+  nebula: "#0F1623"            # Card backgrounds
   star_dust: "#1a2332"         # Borders, dividers
   synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
   dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
