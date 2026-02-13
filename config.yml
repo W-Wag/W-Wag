@@ -15,7 +15,7 @@ username: w-wag
 # Profile information displayed in the galaxy header
 profile:
   name: "Wag Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
+  tagline: "Full Stack Developer & Mobile Developer"
   company: "Free-lancer"
   location: "Brazil"
   bio: |
@@ -68,7 +68,7 @@ projects:
 # All values must be valid hex color codes (#RRGGBB)
 theme:
   void: "#080c14"              # Darkest background
-  nebula: "#0f1623"            # Card backgrounds
+  nebula: "#ffc170"            # Card backgrounds
   star_dust: "#1a2332"         # Borders, dividers
   synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
   dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
