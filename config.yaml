@@ -10,24 +10,23 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: w-wag
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
+  name: "Wag Orion"
   tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  company: "Free-lancer"
+  location: "Brazil"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Making new projects and always study to be a better developer.
+  philosophy: '"Coding until is done."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "wagner.oliv.m@gmail.com"
+  linkedin: "https://www.linkedin.com/in/wagner-de-oliv-martins/"
+  website: "https://github.com/w-wag"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -42,8 +41,8 @@ galaxy_arms:
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
+      - "Node.Js"
+      - "PHP"
       - "PostgreSQL"
   - name: "DevOps"
     color: "axon_amber"
@@ -58,12 +57,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "w-wag/pim-4.3"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "A final project of my college."
+  - repo: "w-wag/CURSOJS"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "My repo of javascript study"
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
