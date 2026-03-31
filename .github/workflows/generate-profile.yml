@@ -28,8 +28,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate SVGs
-        env:
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: python -m generator.main
 
       - name: Commit and push if changed
